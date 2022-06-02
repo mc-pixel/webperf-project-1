@@ -2695,7 +2695,7 @@ template {
     top: 50%;
     margin-left: -40px;
     margin-top: -40px;
-    background: url(owl.video.play.png) no-repeat;
+    /*background: url(owl.video.play.png) no-repeat;*/
     cursor: pointer;
     z-index: 1;
     -webkit-backface-visibility: hidden;
@@ -2766,7 +2766,7 @@ template {
 }
 
 .pswp__button, .pswp__button--arrow--left:before, .pswp__button--arrow--right:before {
-    background: url(../img/default-skin.png) 0 0 no-repeat;
+   /* background: url(../img/default-skin.png) 0 0 no-repeat;*/
     background-size: 264px 88px;
     width: 44px;
     height: 44px
@@ -2774,7 +2774,7 @@ template {
 
 @media (-webkit-min-device-pixel-ratio: 1.1),(-webkit-min-device-pixel-ratio: 1.09375),(min-resolution: 105dpi),(min-resolution: 1.1dppx) {
     .pswp--svg .pswp__button, .pswp--svg .pswp__button--arrow--left:before, .pswp--svg .pswp__button--arrow--right:before {
-        background-image: url(../img/default-skin.svg)
+        /*background-image: url(../img/default-skin.svg)*/
     }
 
     .pswp--svg .pswp__button--arrow--left, .pswp--svg .pswp__button--arrow--right {
@@ -3045,7 +3045,7 @@ a.pswp__share--download:hover {
 }
 
 .pswp__preloader--active .pswp__preloader__icn {
-    background: url(../img/preloader.gif) 0 0 no-repeat
+   /* background: url(../img/preloader.gif) 0 0 no-repeat*/
 }
 
 .pswp--css_animation .pswp__preloader--active {
@@ -10353,7 +10353,7 @@ blockquote.alignright:after {
     float: left;
     clear: both;
     text-indent: -9999px;
-    background: url(../img/travell_items_sprite.jpg) 0 0;
+   /* background: url(../img/travell_items_sprite.jpg) 0 0;*/
     position: relative;
     font-size: 0
 }
