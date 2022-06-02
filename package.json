@@ -11,5 +11,8 @@
     "cross-env": "^7.0.3",
     "mime-types": "^2.1.35",
     "nodemon": "^2.0.16"
+  },
+  "devDependencies": {
+    "parcel": "^2.6.0"
   }
 }
